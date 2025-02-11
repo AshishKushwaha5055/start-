@@ -1,3 +1,3 @@
 # start
 this is my first repository.
-<br>Author- Ashish bhai
+<br>Author- Ashish kushwaha
